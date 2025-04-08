@@ -12,7 +12,7 @@ import sys
 
 from django.core.wsgi import get_wsgi_application
 
-path = '/home/kocherga/slavichoney'
+path = '/home/kocherga/slavichoney_back'
 if path not in sys.path:
     sys.path.append(path)
 
